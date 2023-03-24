@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+#jogo{
+    margin: auto;
+    width:303px;
+    height:300px;
+    border:solid 3px
+}
+ 
+.linha{
+    height:100px;
+    border-bottom:solid 1px;
+}
+ 
+.casa{
+    width:100px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+
+h2{
+    text-align: center;
+}
+.botao{
+    width: 120px;
+    height: 23px;
+    border: solid 3px black;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
